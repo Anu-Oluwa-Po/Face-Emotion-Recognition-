@@ -13,7 +13,6 @@ A Flask-based web app that predicts emotions based on facial expressions using a
 
 ### ✨ Future Improvements
 - 🔨 Improve model performance using **Hyperparameter Tuning**
-- 🌟 Add more features such as **Age Prediction**, **Gender Classification**
 - ⚙️ Incorporate **Live Webcam Feed** for real-time emotion recognition
 - 📈 Implement **Performance Analytics** for real-time accuracy and feedback
 
