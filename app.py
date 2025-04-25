@@ -7,7 +7,7 @@ from PIL import Image
 
 app = Flask(__name__)
 
-model = load_model('./faceRecognition/face_model.keras')
+model = load_model('./face_model.keras')
 
 emotion_labels = ['Happiness', 'Sadness', 'Neutral']
 
